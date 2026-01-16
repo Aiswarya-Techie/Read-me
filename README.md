@@ -1,5 +1,3 @@
-# Read-me
-Introduction
 # Hi there, I'm Aiswarya 👋
 
 🎓 CSBS student at VIT-AP University  
